@@ -123,6 +123,7 @@
   
   - **이한빈**
     
+    - 최종 발표
     - Intro 페이지
     - 로그인(Google 소셜 로그인, 일반 로그인)페이지
     - 보안 처리(Access Token, Refresh Token, 라우터 접근)
@@ -130,6 +131,7 @@
   
   - **차영후**
     
+    - 팀장
     - 메인페이지
     - Web Socket (채팅, Youtube 동시시청, 로딩페이지)
     - WebRTC (OpenVidu)
