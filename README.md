@@ -154,7 +154,6 @@
 
   [![](http://i.ytimg.com/vi/FVc0pLRAJI8/hqdefault.jpg)](https://youtu.be/FVc0pLRAJI8)
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/b9lyqdGf9FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - **회원가입**
   ![signup](https://user-images.githubusercontent.com/57744586/219590929-328e7163-d821-4e9e-b470-566f2dad0ea7.gif)
