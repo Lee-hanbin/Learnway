@@ -115,22 +115,21 @@
 - **FrontEnd**
   
   - **이예진** 
-    
+    - UCC 제작
     - 마이페이지(프로필 수정, 친구관리, 스크립트)
     - 친구관리 기능(추가, 관리, 채팅리스트 등록)
     - 스크립트 관리 컴포넌트(TTS 재생, 날짜별 정렬 기능)
     - 번역 기능
   
   - **이한빈**
-    
     - 최종 발표
-    - Intro 페이지
-    - 로그인(Google 소셜 로그인, 일반 로그인)페이지
-    - 보안 처리(Access Token, Refresh Token, 라우터 접근)
-    - 회원가입 페이지
+    - Styled component를 활용하여 Intro, login, signup 페이지 및 ui 제작
+    - react redux를 사용하여 중앙처리장치 관리
+    - login 기능 구현 및 AccessToken, RefreshToken 관리
+    - OAuth2를 통한 소셜로그인(Google) 구현
+    - 보안 처리(Access Token, Refresh Token, 라우터 접근권한)
   
   - **차영후**
-    
     - 팀장
     - 메인페이지
     - Web Socket (채팅, Youtube 동시시청, 로딩페이지)
